@@ -1,0 +1,90 @@
+﻿2016-09-13 v1.0.15
+- Bug Fixes.
+
+2016-05-10 v1.0.14
+- Android 6.0 Compatibility
+
+2015-04-17 v1.0.13
+- Bug Fixes.
+
+2015-04-09 v1.0.12
+- Gallery Bug Fixes.
+
+2015-01-06 v1.0.11
+- Android 5.0 Compatibility
+
+2013-12-13 v1.0.10
+- Android 4.4 Compatibility
+
+2013-08-22 v1.0.9
+- Bug Fixes.
+
+2013-06-19 v1.0.8
+- Translation in Arabic
+
+2013-05-30 v1.0.7
+- Bug Fixes.
+- Translation in Hebrew
+- Translation in Norwegian
+- Translation in Slovak
+
+2013-02-07 v1.0.6
+- Translation in Croatian
+- Translation in Czech
+- Translation in Greek
+- Translation in Indonesian
+
+2012-11-29 v1.0.5
+- Burger Creator Mode Added!
+- Bug fixes.
+- Translation in Finnish
+- Translation in Hungarian
+- Translation in Swedish
+- Translation in Serbian
+
+2012-10-02 v1.0.4
+- Translation in Danish.
+- Translation in Italian.
+- Translation in Polish.
+
+2012-09-21 V1.0.3
+- Fixed the "Force Close" introduced in version 1.0.2.
+--== We apologize for the bad experience ==--
+
+2012-09-21 V1.0.2
+- Bug fixes.
+- Translation in Russian.
+- Translation in Turkish.
+
+2012-08-31 V1.0.1
+- Bug fixes.
+
+2012-08-29 V1.0.0
+- First release.
+
+- Translated in German by Peter Coenen and Daniel Hacirisoglu.
+- Translated in Spanish by Emilio Gonzalez.
+- Translated in Lithuanian by Paulius Karvelis.
+- Translated in Dutch by Tela.
+- Translated in Portuguese-Brazilian by Clóvis.
+- Translated in Romanian by Andrei Mazanec.
+- Translated in Thai by Sirawit Lappisatepun.
+- Translated in Russian by Леонид Филатов and Андрей Волков.
+- Translated in Turkish by Kübra Köksal and Bora Noyan.
+- Translated in Danish by Søren Morthorst, Adam K. Wegge, Satina Rasmussen and Daniel.
+- Translated in Italian by Andrea and Danilo Onnis.
+- Translated in Polish by Aleksandra Zakrzewska and Tomasz Lechański.
+- Translated in Finnish by Ada Mare.
+- Translated in Hungarian by Adam Galambos, Aggie Margittai and Szabolcs Árvay.
+- Translated in Swedish by Jessica Bengtsson and Conny Brindesjö.
+- Translated in Serbian by Ivan Icic.
+- Translated in Croatian by Antonio Olajoš
+- Translated in Czech by David Ersil, Jan Kůže Kuzebauch, Maxuandroid and Medard Vährner.
+- Translated in Greek by Nikos Mouster, Insane Crusader, Ostapenko, Sakis Bairamis and Dikon Neo.
+- Translated in Indonesian by Richardx888, Ida Mayasari and Rio Raditianto.
+- Translated in Hebrew by Ariel Wainberg, איל כהן and Shaigoffer.
+- Translated in Norwegian by Enrico Tubia, Jerdcn and Theakjoswenjum.
+- Translated in Slovak by Andrej Zsigo and Enrico Tubia.
+- Translated in Arabic by Bebesh, right to point, hamoud.aq, Ahmed, ixabris, alialbakkai and Abdullah.
+ 
+ Music by Kevin MacLeod (http://incompetech.com/)
